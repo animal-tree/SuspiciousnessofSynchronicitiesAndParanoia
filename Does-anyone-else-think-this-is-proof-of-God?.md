@@ -84,10 +84,10 @@ The next step: convince me that there's something *good*. But under the same lev
 ---
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/38c98f4c-7c71-4a02-b2aa-97e3036e1e11">
+<a href="https://github.com/user-attachments/assets/6bbd887e-2d84-4a8b-87f4-7c807f8c7f71">
  <picture>
-   <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6a3d781d-2bd0-4636-a2e7-c8c3c9c9a6e8">
-   <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/38c98f4c-7c71-4a02-b2aa-97e3036e1e11">
+   <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ea347a6f-25a7-452c-8317-7adeb1a748e3">
+   <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/6bbd887e-2d84-4a8b-87f4-7c807f8c7f71">
 </picture>
 </a><br><i>"Schizophrenia's mechanism as not-illness." I think in the subconscious, some kind of map like this exists, where there is a disconnect or dissociation, not internally, but between registered physics of the world and societal physics operated by and understood, all at subconscious levels. In indiginous cultures and regions like Tibet, the reason schizophrenia doesn't exist in the way that it's diagnosed in America is because the understood physics of those symptoms are in agreement with the physics practiced by those societies. In my society, the unknown physics are rationally interpretable as conspiracy or evil.</i>
 </p>
